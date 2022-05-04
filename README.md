@@ -1,0 +1,2 @@
+# cofigServerProp
+properties file
